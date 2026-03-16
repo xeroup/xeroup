@@ -5,10 +5,11 @@ I just build things and figure it out along the way.<br>
 Most of my projects start with "this would be useful" and end with "well, that works".
 
 ### Programming languages
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Assembly](https://img.shields.io/badge/-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Rust](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
+[![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Kotlin](https://img.shields.io/badge/-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Tools
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FE315D)](https://www.jetbrains.com/idea/)
