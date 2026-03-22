@@ -2,7 +2,7 @@
   <h1>xeroup</h1>
   <p align="center">
     <i>I write code for fun. Mostly utilities and tools with clean APIs.<br></i>
-    <i>Right now, I'm working on my own game engine with a UI and a custom scripting language.<br><br>
+    <i>Right now, I'm working on my own game engine with a UI.<br><br>
   </p>
       
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
